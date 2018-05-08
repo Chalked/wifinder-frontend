@@ -1,0 +1,42 @@
+.UserComment {
+    font-family: 'Ubuntu';
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #4F7CAC;
+    padding-right: 10px;
+    box-shadow: 5px 5px 5px black;
+    margin-bottom: 10px;
+}
+
+
+.Delete {
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    float: right;
+    padding: 2px 2px 2px 2px;
+    top: 10px;
+    background-color: #3C474B;
+    box-shadow: 3px 3px 3px black;
+    transition: .2s;
+}
+
+.Delete:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+h3 {
+    color: white;
+}
+
+.Small {
+    color: white;
+}
+
+
+
+

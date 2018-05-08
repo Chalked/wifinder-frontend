@@ -1,0 +1,6 @@
+.Loading {
+    position: fixed;
+    z-index: 1;
+    margin-left: 26vw;
+    margin-top: 5vh;
+}

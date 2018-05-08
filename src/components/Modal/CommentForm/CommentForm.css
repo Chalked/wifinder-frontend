@@ -1,0 +1,57 @@
+.Title {
+    display: flex;
+    margin-top: 2vh;
+    align-content: center;
+    padding-left: 10px;
+    color: white;
+    margin-left: 17%;
+}
+
+.Comment {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.Form {
+    margin-top: 2vh;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-family: 'Ubuntu';
+    padding: 10px 10px 10px 10px;
+    background-color: #3C474B;
+    height: 22vh;
+    box-shadow: 5px 5px 5px black;
+}
+
+.Submit {
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+    height: 34px;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 32%;
+    margin-top: 18px;
+    box-shadow: 3px 3px 3px black;
+    transition: .2s;
+}
+
+.Submit:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.Small {
+    color: white;
+    margin-bottom: 5px;
+}
+
+small {
+    color: white;
+}
+
+.Input {
+    margin-left: 10px;
+}

@@ -1,0 +1,9 @@
+.Add {
+    margin-bottom: 50px;
+}
+
+.App {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}

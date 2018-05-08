@@ -1,0 +1,5 @@
+.Map {
+    position: fixed;
+    top: 10vh;
+    z-index: 2;
+}

@@ -1,0 +1,50 @@
+Header {
+    height: 10%;
+    width: 100%;
+    background-color: #162521;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    display: inline;
+    font-size: 8vh;
+    color: #C0E0DE;
+}
+
+.Add {
+    float: right;
+    font-size: 20pt;
+    margin-top: 20px;
+    margin-right: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 2px 2px 2px 5px;
+    background-color: #3C474B;
+    box-shadow: 3px 3px 3px black;
+    transition: .2s;
+}
+
+.Add:hover {
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+.Wi {
+    color: #C0E0DE;
+    
+    
+}
+
+.Finder {
+    /* color: #F7F4EA; */
+    color: #F8F0FB;    
+}

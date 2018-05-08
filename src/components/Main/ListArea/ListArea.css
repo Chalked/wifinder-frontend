@@ -1,0 +1,58 @@
+ul {
+    padding: 0;
+    margin-top: 61vh;
+}
+
+.Name {
+    font-family: "Ubuntu", sans-serif;
+    color: #ffffff;
+    text-align: left;
+    width: 125px;
+    margin-left: 6px;
+}
+
+.ListItem {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4%;
+    margin-right: 4%;
+    border: 1px solid white;
+    background-color: #162521;
+    border-radius: 5px;
+    z-index: 2;
+    font-family: 'Ubuntu', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-shadow: 5px 5px 5px black;
+    height: 50px;
+    margin-bottom: 15px;
+    transition: .2s;
+}
+
+.ListItem:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+li {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.ListArea {
+    height: 50vh;
+}
+
+.Distance {
+    margin-right: 10px;
+    margin-top: 18px;
+}
+
+.Address {
+    width: 140px;
+    color: white;
+    text-align: right;
+    margin-right: 6px;
+}
