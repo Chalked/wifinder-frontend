@@ -5,7 +5,6 @@
 ### Technologies Used:
 
 - CSS
-- HTML
 - JavaScript
 - React
 - Knex
